@@ -4,6 +4,8 @@ Hi! My name is Yuki (or J.P., depending on my current mood), and welcome to my G
 
 *Disclaimer: Most of the repositories here were one-off projects made in a weekend during my free time in order to learn some technologies... I provide almost no support and these come with no guarantees, but it's pretty nice on a resume, just to see how I code and what I like :)*
 
+Note: This account and most of its projects have been moved and migrated to [git.a39.ca](https://git.a39.ca). No support is provided anymore on GitHub.
+
 <!--
 **juju2143/juju2143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
